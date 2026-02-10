@@ -8,4 +8,5 @@ dependencies = [
     "finance-datareader>=0.9.101",
     "ipykernel>=7.1.0",
     "matplotlib>=3.10.8",
+    "nbformat>=5.10.4",
 ]
